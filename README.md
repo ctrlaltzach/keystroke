@@ -2,7 +2,7 @@
 
 A keyboard-first note capture tool designed to keep you in flow state.
 
-## Why keystroke? 
+## Why keystroke?
 
 Switching between keyboard and mouse breaks focus. keystroke eliminates that friction — capture thoughts in under 2 seconds, without ever leaving your keyboard.
 
