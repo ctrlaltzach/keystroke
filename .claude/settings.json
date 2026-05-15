@@ -2,7 +2,7 @@
   "hooks": {
     "PostToolUse": [
       {
-        "matcher": "Bash(git push *)",
+        "matcher": "Bash(git push --set-upstream origin *)",
         "hooks": [
           {
             "type": "command",
